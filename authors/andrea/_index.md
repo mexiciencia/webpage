@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Andrea Gutiérrez-Quezada
-avatar_image: "andrea.jpg"
+avatar_image: "yomera.png"
 # Username (this should match the folder name)
 authors:
 - andrea
