@@ -35,13 +35,13 @@ display_education: false
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: 
     year: 2012
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: 
     year: 2009
   - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: 
     year: 2008
 
 # Social/academia Networking
