@@ -77,4 +77,5 @@ user_groups:
 - Visitors
 ---
 
-Abigail Jiménez Franco currently works at the Department of Crystallography, Mineralogy and Mineral Deposits, University of Barcelona, applying electron microscopic techniques to the micro and nano-scale to mineral characterization with focus in hydro-thermal systems. Currently, she is collaborating in Caribbean Lithosphere (CALOR) and 'Proyecto de Geoparque Comarca Minera de Hidalgo' projects.
+Abigail Jiménez Franco currently works at the Department of Crystallography, Mineralogy and Mineral Deposits, [University of Barcelona](https://www.ub.edu/web/ub/en/), applying electron microscopic techniques to the micro and nano-scale to mineral characterization with focus in hydro-thermal systems. Currently, she is collaborating in Caribbean Lithosphere (CALOR) and 'Proyecto de Geoparque Comarca Minera de Hidalgo' projects.
+
